@@ -26,7 +26,9 @@ Python • Pandas • NumPy • Matplotlib • Scikit-learn • XGBoost • Jupy
 
 ## Forecast Visualizations
 ![Actual vs Predictions](Actual VS Predictions.png)
+
 ![Actual vs Next 12 Months Forecast](actual vs forecast.png)
+
 ![Feature Importance](feature_importance.png)
 
 
