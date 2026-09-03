@@ -25,14 +25,10 @@ Tools
 Python • Pandas • NumPy • Matplotlib • Scikit-learn • XGBoost • Jupyter Notebook
 
 ## Forecast Visualizations
-![Actual vs Predictions](Actual VS Predictions.png)
+![Actual vs Predictions](Actual%20VS%20Predictions.png)
 
-![Actual vs Next 12 Months Forecast](actual vs forecast.png)
+![Actual vs Next 12 Months Forecast](actual%20vs%20forecast.png)
 
 ![Feature Importance](feature_importance.png)
 
 
-## Forecast Visualizations
-![Actual vs Predictions](Actual VS Predictions.png)
-![Actual vs Next 12 Months Forecast](actual vs forecast.png)
-![Feature Importance](feature_importance.png
