@@ -22,5 +22,9 @@ Key Finding
 The model achieved an R² of approximately 41% on the test set. Feature importance showed that month and sales_lag12 were the strongest predictors, indicating a strong seasonal pattern in retail sales.
 
 Tools
-
 Python • Pandas • NumPy • Matplotlib • Scikit-learn • XGBoost • Jupyter Notebook
+
+## Forecast Visualizations
+![Actual vs Predictions](Actual VS Predictions.png)
+![Actual vs Next 12 Months Forecast](actual vs forecast.png)
+![Feature Importance](feature_importance.png
